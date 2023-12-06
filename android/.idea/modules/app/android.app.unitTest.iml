@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:unitTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/app/tmp/kotlin-classes/debugUnitTest" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar:/Users/webnautical/.gradle/caches/transforms-3/b795a5bdf8097d842ce7b0c272946795/transformed/jetified-libs.jar:/Users/webnautical/Desktop/BL/connectana/build/flutter_plugin_android_lifecycle/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/fluttercontactpicker/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/share_plus/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/url_launcher_android/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/path_provider_android/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/qr_code_scanner/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/image_picker_android/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/nfc_manager/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/Desktop/BL/connectana/build/connectivity_plus/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/webnautical/.gradle/caches/transforms-3/0c2be28fd19c45533109f79e54d3d005/transformed/jetified-armeabi_v7a_debug-1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5.jar:/Users/webnautical/.gradle/caches/transforms-3/be96433addc4aec41288c8b1b9d8f395/transformed/jetified-arm64_v8a_debug-1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5.jar:/Users/webnautical/.gradle/caches/transforms-3/c07c8a84334f2d1d15d08cfd06dd8b57/transformed/jetified-x86_64_debug-1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5.jar:/Users/webnautical/.gradle/caches/transforms-3/3045104915489dd864eb388f81a854f6/transformed/jetified-x86_debug-1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5.jar:/Users/webnautical/.gradle/caches/transforms-3/0a83b01e1814ea315ed4c4a0fe77d15d/transformed/jetified-flutter_embedding_debug-1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5.jar:/Users/webnautical/.gradle/caches/transforms-3/c1522523aaefa9a5e2fcf09df23d9fd2/transformed/fragment-1.3.6-api.jar:/Users/webnautical/.gradle/caches/transforms-3/f95fb61a9f0b21c77ecb28380a07b95d/transformed/viewpager-1.0.0-api.jar:/Users/webnautical/.gradle/caches/transforms-3/3c00174a66cca3491116ae35c8e350b1/transformed/loader-1.0.0-api.jar:/Users/webnautical/.gradle/caches/transforms-3/e731a0fb2bee15b3c789f4f5b6b379a2/transformed/jetified-activity-1.7.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/55817484b9ab780d6de64f3f660d431d/transformed/lifecycle-livedata-2.6.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/c241b8af9bbb7da628a4a02df8ad0ea3/transformed/lifecycle-viewmodel-2.6.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/3e776513c6f6ee4263a581d02b210b59/transformed/lifecycle-livedata-core-2.6.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/275b23c84150a06527f658cf87628372/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/39de3116d156ec2e27f31842e5c1cce9/transformed/jetified-core-ktx-1.10.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/16702ae198be014e7f96022506e6996c/transformed/customview-1.0.0-api.jar:/Users/webnautical/.gradle/caches/transforms-3/083636dabd06a8e936f1b3ee7669642e/transformed/core-1.10.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/b22083372f1f419c0f0fd0794e9483a0/transformed/lifecycle-runtime-2.6.1-api.jar:/Users/webnautical/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.1/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.1.jar:/Users/webnautical/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.1/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.1.jar:/Users/webnautical/.gradle/caches/transforms-3/105b1ffee6994ba6127489ce49d7f133/transformed/core-runtime-2.2.0-api.jar:/Users/webnautical/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar:/Users/webnautical/.gradle/caches/transforms-3/89ebfafd53822104d578b5ddbfb1481f/transformed/versionedparcelable-1.1.1-api.jar:/Users/webnautical/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/webnautical/.gradle/caches/transforms-3/5e2c1a42b5eb9f035535286754384735/transformed/jetified-savedstate-1.2.1-api.jar:/Users/webnautical/.gradle/caches/transforms-3/e18a94257e5d917dfcdc6c3a7d1b9d00/transformed/jetified-annotation-jvm-1.6.0.jar:/Users/webnautical/.gradle/caches/transforms-3/bd6ba87ea278de36c3a69d2d3339f7fb/transformed/jetified-window-java-1.0.0-beta04-api.jar:/Users/webnautical/.gradle/caches/transforms-3/1aa01c1c66b39ad64720f3cc49103f7f/transformed/jetified-window-1.0.0-beta04-api.jar:/Users/webnautical/.gradle/caches/transforms-3/27a28f0bba1c853920182717c699320e/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.4.jar:/Users/webnautical/.gradle/caches/transforms-3/6f86ab4b853d09df7a7ce5e7cd2291ed/transformed/jetified-kotlinx-coroutines-android-1.6.4.jar:/Users/webnautical/.gradle/caches/transforms-3/079448203013d9abfc8b9b4d5db0e65b/transformed/jetified-kotlin-stdlib-jdk8-1.8.21.jar:/Users/webnautical/.gradle/caches/transforms-3/b21c74106d1c1b6e0ce85c02ebf4cda8/transformed/jetified-kotlin-stdlib-jdk7-1.8.21.jar:/Users/webnautical/.gradle/caches/transforms-3/fb4181026e6b3f20204ca3e7940e27cb/transformed/jetified-annotation-experimental-1.3.0-api.jar:/Users/webnautical/.gradle/caches/transforms-3/6ace111eb57acc1372b72e9eee7bb315/transformed/jetified-kotlin-stdlib-1.8.21.jar:/Users/webnautical/.gradle/caches/transforms-3/9b282dabc02c201c6df34accd1c55a31/transformed/jetified-kotlin-stdlib-common-1.8.21.jar:/Users/webnautical/.gradle/caches/transforms-3/8f8d4d0805ebf02aa2fdfe7e021cd7a4/transformed/jetified-annotations-13.0.jar:/Users/webnautical/.gradle/caches/transforms-3/80f56ae94e98068045e2a098f2e73871/transformed/jetified-tracing-1.0.0-api.jar:/Users/webnautical/Library/Android/sdk/platforms/android-33/android.jar:/Users/webnautical/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../../build/app/tmp/kotlin-classes/debug" />
+              <option value="$MODULE_DIR$/../../../../build/app/intermediates/javac/debug/classes" />
+              <option value="$MODULE_DIR$/../../../../build/app/intermediates/compile_app_classes_jar/debug/classes.jar" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.7" />
+          <option name="apiVersion" value="1.7" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/app/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/app/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/src/test" />
+    <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
+    <content url="file://$MODULE_DIR$/../../../../build/app/generated/ap_generated_sources/debugUnitTest/out" />
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="android.flutter_plugin_android_lifecycle.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.fluttercontactpicker.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.share_plus.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.url_launcher_android.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.path_provider_android.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.qr_code_scanner.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.image_picker_android.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.nfc_manager.main" scope="TEST" />
+    <orderEntry type="module" module-name="io.flutter.plugins.connectivity.android.connectivity_plus.main" scope="TEST" />
+    <orderEntry type="module" module-name="android.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-jvm:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:armeabi_v7a_debug:1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:arm64_v8a_debug:1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:x86_64_debug:1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:x86_debug:1.0.0-248290d6d50a1bf1a6a246544347c03acda867a5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: /Users/webnautical/Desktop/BL/connectana/build/app/intermediates/flutter/debug/libs.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.10.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.7.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.10.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.window:window-java:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.window:window:1.0.0-beta04@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="android.app.main" />
+</module>
